@@ -64,7 +64,7 @@
 	"msg_complete_tutorial": "Ấy vừa hoành thành phần\nhướng dẫn rồi đấy",
 	"msg_complete_all": "Ấy vừa hoành thành màn cuối cùng rồi đấy",
 	"text_try_again": "thử lại xem sao",
-	"msg_complete_end_pack": "Ấy vừa hoàn thành màn cuối của ",
+	"msg_complete_end_pack": "Ấy vừa hoàn thành màn cuối của\n",
 	"text_wait": "E hèm!",
 	"text_ask_friends": "hỏi tụi bạn",
 	"msg_fill_board": "Ấy phải nối qua tất cả các ô nhé",
@@ -81,6 +81,9 @@
 	"text_no": "thui",
 	"text_new_version": "Phiên bản mới",
 	"msg_new_version": "Đã có phiên bản mới. Ấy có muốn\ncập nhật không?",
+	"text_fb": "facebook",
+	"text_tw": "twitter",
 	"text_like": "theo dõi",
+	"msg_like": "Theo dõi chúng tôi để cập nhật\ntin tức mới nhất",
 	"text_title_mobile": "Còn rất nhiều màn chơi"
 }

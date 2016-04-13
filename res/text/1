@@ -81,6 +81,9 @@
     "text_no": "NO",
     "text_new_version": "New version",
     "msg_new_version": "The new version is now available. Would you like to update?",
+    "text_fb": "facebook",
+    "text_tw": "twitter",
     "text_like": "follow us",
+    "msg_like": "Follow us to get more info about all our upcoming titles.",
     "text_title_mobile": "Play more levels"
 }
