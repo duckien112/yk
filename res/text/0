@@ -4,9 +4,6 @@
 		"name": "Gói nhập môn",
 		"des": "Hướng dẫn dành cho người mới"
 	}, {
-		"name": "Gói 5x5",
-		"des": "Màn chơi với bàn 5x5"
-	}, {
 		"name": "Gói 6x6",
 		"des": "Màn chơi với bàn 6x6"
 	}, {
@@ -50,21 +47,20 @@
 		"des": "Màn chơi với bàn 19x19"
 	}],
 	"text_ok": "uhm",
-	"text_level_game": "Màn ",
+	"text_level_game": "Màn #level",
 	"text_level": "chọn gói",
 	"text_lang": "ngôn ngữ",
 	"text_play": "chiến luôn",
 	"text_rate": "đánh giá",
 	"text_more": "thêm",
 	"text_perfect": "Tuyệt cú mèo!",
-	"msg_completed": "Ấy vừa hoành thành màn ",
+	"msg_completed": "Ấy vừa hoành thành màn #level",
 	"text_share": "khoe tụi bạn",
 	"text_next_level": "chiến tiếp",
 	"text_congra": "Khá là khá!",
 	"msg_complete_tutorial": "Ấy vừa hoành thành phần\nhướng dẫn rồi đấy",
 	"msg_complete_all": "Ấy vừa hoành thành màn cuối cùng rồi đấy",
 	"text_try_again": "thử lại xem sao",
-	"msg_complete_end_pack": "Ấy vừa hoàn thành màn cuối của\n",
 	"text_wait": "E hèm!",
 	"text_ask_friends": "hỏi tụi bạn",
 	"msg_fill_board": "Ấy phải nối qua tất cả các ô nhé",
@@ -80,10 +76,14 @@
 	"text_unlock": "Mở ",
 	"text_no": "thui",
 	"text_new_version": "Phiên bản mới",
-	"msg_new_version": "Đã có phiên bản mới. Ấy có muốn\ncập nhật không?",
+	"msg_new_version": "Đã có phiên bản mới. Ấy có muốn cập nhật không?",
 	"text_fb": "facebook",
 	"text_tw": "twitter",
 	"text_like": "theo dõi",
 	"msg_like": "Theo dõi chúng tôi để cập nhật\ntin tức mới nhất",
-	"text_title_mobile": "Còn rất nhiều màn chơi"
+	"text_title_mobile": "Còn rất nhiều màn chơi",
+    "text_invite": "rủ bạn bè",
+    "text_watch_video": "xem video",
+    "msg_share": "Tớ đã vượt qua màn #level, #pack trong trò chơi Giải đố YK. Ấy thử chơi chưa? #YKPuzzle http://ykpuzzle.com",
+    "msg_ask_friend": "Tớ đang bí ở màn #level, #pack trong trò chơi Giải đố YK. Giúp tớ với! #YKPuzzle http://ykpuzzle.com"
 }

@@ -4,9 +4,6 @@
 		"name": "Beginner Pack",
 		"des": "For beginner with tutorial"
 	}, {
-		"name": "5x5 Pack",
-		"des": "Level with 5x5 boards"
-	}, {
 		"name": "6x6 Pack",
 		"des": "Level with 6x6 boards"
 	}, {
@@ -50,21 +47,21 @@
 		"des": "Level with 19x19 boards"
 	}],
 	"text_ok": "OK",
-	"text_level_game": "Level ",
+	"text_level_game": "Level #level",
 	"text_level": "Level ",
 	"text_lang": "language",
 	"text_play": "play",
 	"text_rate": "rate",
 	"text_more": "more",
 	"text_perfect": "Perfect!",
-	"msg_completed": "You just completed level ",
+	"msg_completed": "You just completed level #level",
 	"text_share": "share",
 	"text_next_level": "next level",
 	"text_congra": "Congratulations!",
 	"msg_complete_tutorial": "You just completed the tutorial",
 	"msg_complete_all": "You've just reached the last level in YK Puzzle",
 	"text_try_again": "try again",
-	"msg_complete_end_pack": "You've just reached all levels of ",
+	"msg_complete_end_pack": "You've just reached all levels of #pack",
 	"text_wait": "Wait!",
 	"text_ask_friends": "ask friends",
 	"msg_fill_board": "You must fill the board with pipes",
@@ -85,5 +82,9 @@
     "text_tw": "twitter",
     "text_like": "follow us",
     "msg_like": "Follow us to get more info about all our upcoming titles.",
-    "text_title_mobile": "Play more levels"
+    "text_title_mobile": "Play more levels",
+    "text_invite": "invite friends",
+    "text_watch_video": "watch video",
+    "msg_share": "I passed level #level, #pack in YK Puzzle game. Can you? #YKPuzzle http://ykpuzzle.com",
+    "msg_ask_friend": "I solving level #level, #pack in YK Puzzle game. Help me! #YKPuzzle http://ykpuzzle.com"
 }
