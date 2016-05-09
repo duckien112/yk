@@ -75,7 +75,7 @@
 	"msg_hint": "もう口振りを貰います",
 	"msg_purchase_fail": "商売できなくて、費がなくならないインターネット接続をチェックして、もう一回やってみてください。",
 	"text_unlock": "#pack を開けます",
-	"text_no": "止めます",
+	"text_no": "いいえ",
 	"text_new_version": "新しいバージョン",
 	"msg_new_version": "新しいバージョンがありました。更新しますか？",
 	"text_fb": "facebook",
