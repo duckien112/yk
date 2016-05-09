@@ -1,90 +1,90 @@
 {
-	"lang": "English",
+	"lang": "Japanese",
 	"pack_data": [{
-		"name": "Beginner Pack",
-		"des": "For beginner with tutorial"
+		"name": "入門レベル",
+		"des": "ご案内します"
 	}, {
-		"name": "6x6 Pack",
-		"des": "Level with 6x6 boards"
+		"name": "6X6の包",
+		"des": "6X6をします"
 	}, {
-		"name": "7x7 Pack",
-		"des": "Level with 7x7 boards"
+		"name": "7X7の包",
+		"des": "7X7をします"
 	}, {
-		"name": "8x8 Pack",
-		"des": "Level with 8x8 boards"
+		"name": "8X8の包",
+		"des": "8X8をします"
 	}, {
-		"name": "9x9 Pack",
-		"des": "Level with 9x9 boards"
+		"name": "9X9の包",
+		"des": "9X9をします"
 	}, {
-		"name": "10x10 Pack",
-		"des": "Level with 10x10 boards"
+		"name": "10X10の包",
+		"des": "10X10をします"
 	}, {
-		"name": "11x11 Pack",
-		"des": "Level with 11x11 boards"
+		"name": "11X11の包",
+		"des": "11X11をします"
 	}, {
-		"name": "12x12 Pack",
-		"des": "Level with 12x12 boards"
+		"name": "12X12の包",
+		"des": "12X12をします"
 	}, {
-		"name": "13x13 Pack",
-		"des": "Level with 13x13 boards"
+		"name": "13X13の包",
+		"des": "13X13をします"
 	}, {
-		"name": "14x14 Pack",
-		"des": "Level with 14x14 boards"
+		"name": "14X14の包",
+		"des": "14X14をします"
 	}, {
-		"name": "15x15 Pack",
-		"des": "Level with 15x15 boards"
+		"name": "15X15の包",
+		"des": "15X15をします"
 	}, {
-		"name": "16x16 Pack",
-		"des": "Level with 16x16 boards"
+		"name": "16X16の包",
+		"des": "16X16をします"
 	}, {
-		"name": "17x17 Pack",
-		"des": "Level with 17x17 boards"
+		"name": "17X17の包",
+		"des": "17X17をします"
 	}, {
-		"name": "18x18 Pack",
-		"des": "Level with 18x18 boards"
+		"name": "18X18の包",
+		"des": "18X18をします"
 	}, {
-		"name": "19x19 Pack",
-		"des": "Level with 19x19 boards"
+		"name": "19X19の包",
+		"des": "19X19をします"
 	}],
-	"text_ok": "OK",
-	"text_level_game": "Level #level",
-	"text_level": "Level ",
-	"text_lang": "language",
-	"text_play": "play",
-	"text_rate": "rate",
-	"text_more": "more",
-	"text_perfect": "Perfect!",
-	"msg_completed": "You just completed level #level",
-	"text_share": "share",
-	"text_next_level": "next level",
-	"text_congra": "Congratulations!",
-	"msg_complete_tutorial": "You just completed the tutorial",
-	"msg_complete_all": "You've just reached the last level in YK Puzzle",
-	"text_try_again": "try again",
-	"msg_complete_end_pack": "You've just reached all levels of #pack",
-	"text_wait": "Wait!",
-	"text_ask_friends": "ask friends",
-	"msg_fill_board": "You must fill the board with pipes",
-	"msg_connect_order": "You must connect the points in the order 1, 2, ..., #pre, #last",
-	"text_lock": "Locked",
-	"msg_lock": "Unlock all previous levels to play this pack",
-	"text_hint1": "30 hints",
-    "text_hint2": "5 hints",
-    "text_hint_promo": "More 100%",
-    "text_hint": "Hints",
-    "msg_hint": "Would you like more hints?",
-    "msg_purchase_fail": "Your purchase was not successful. You will not be charged. Please check your network connection and retry",
-    "text_unlock": "Unlock ",
-    "text_no": "NO",
-    "text_new_version": "New version",
-    "msg_new_version": "The new version is now available. Would you like to update?",
-    "text_fb": "facebook",
-    "text_tw": "twitter",
-    "text_like": "follow us",
-    "msg_like": "Follow us to get more info about all our upcoming titles.",
-    "text_title_mobile": "Play more levels",
-    "text_invite": "invite friends",
-    "text_watch_video": "watch video",
-    "msg_share": "I passed level #level, #pack in YK Puzzle game. Can you? #YKPuzzle http://ykpuzzle.com",
-    "msg_ask_friend": "I solving level #level, #pack in YK Puzzle game. Help me! #YKPuzzle http://ykpuzzle.com"
+	"text_ok": "オーケー",
+	"text_level_game": "レベル#level",
+	"text_level": "レベル",
+	"text_lang": "言語",
+	"text_play": "ファイトしましょう",
+	"text_rate": "このゲームはどうですか",
+	"text_more": "もっと",
+	"text_perfect": "素晴しい!",
+	"msg_completed": "このレベル#levelを",
+	"text_share": "シェア",
+	"text_next_level": "次をしましょう",
+	"text_congra": "すごいですね!",
+	"msg_complete_tutorial": "おめでとうございます案内し終わりました",
+	"msg_complete_all": "最後のレベルを出来ました",
+	"text_try_again": "もう一回やってみましょう",
+	"msg_complete_end_pack": "#pack の最後のレベルを出来ました",
+	"text_wait": "えっ！",
+	"text_ask_friends": "友達に聞きます",
+	"msg_fill_board": "全部ギャップを接しなければならないですよ",
+	"msg_connect_order": "1,2....#pre, #last によって接しなければならないですよ",
+	"text_lock": "ロック",
+	"msg_lock": "前のレベルを通らなければならなくてこのレベルにを出来ます",
+	"text_hint1": "30口振り",
+	"text_hint2": "5口振り",
+	"text_hint_promo": "100%上げます",
+	"text_hint": "口振り",
+	"msg_hint": "もう口振りを貰います",
+	"msg_purchase_fail": "商売できなくて、費がなくならないインターネット接続をチェックして、もう一回やってみてください。",
+	"text_unlock": "#pack を開けます",
+	"text_no": "止めます",
+	"text_new_version": "新しいバージョン",
+	"msg_new_version": "新しいバージョンがありました。更新しますか？",
+	"text_fb": "facebook",
+	"text_tw": "twitter",
+	"text_like": "観察",
+	"msg_like": "ニュースを更新するために、私達を観察してください",
+	"text_title_mobile": "まだいっぱいレベルがあります",
+    "text_invite": "友達を誘います",
+    "text_watch_video": "ビデオを見ます",
+	"msg_share": "私は接続YKゲームにこの#level の#packを通りました。あなたはしませんでしたか？　#YKPuzzle http://ykpuzzle.com",
+    "msg_ask_friend": "#pack　接続YKゲームに、このレベル　#levelをまだできないので、　助けて!!!　#YKPuzzle http://ykpuzzle.com"
 }
